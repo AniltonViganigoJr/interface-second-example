@@ -2,7 +2,7 @@ package model.entities;
 
 import model.enums.Color;
 
-public class Reactangle extends Shape{
+public class Reactangle extends AbstractShape{
 
 	private Double width;
 	private Double height;
